@@ -1,0 +1,4 @@
+IP,MAC,Device Name,Vendor
+192.168.0.1,50:3d:d1:ed:6a:bd,Unknown,"{""errors"":{""message"":""Please slow down your requests or upgrade your plan at https://macvendors.com"",""detail"":""Too Many Requests""}}"
+192.168.0.4,d8:b3:2f:43:92:2b,LOQ,CLOUD NETWORK TECHNOLOGY SINGAPORE PTE. LTD.
+192.168.0.5,aa:8a:0a:13:58:84,MAC-61ECB8,"{""errors"":{""detail"":""Not Found""}}"
